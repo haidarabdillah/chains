@@ -2729,6 +2729,19 @@
   "faucets": [],
   "infoURL": "https://swapdex.network/"
 }, {
+  "name": "Ethernity Testnet",
+  "chainId": 233,
+  "shortName": "ethernity-testnet",
+  "networkId": 233,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": ["https://testnet.ethernitychain.io"],
+  "faucets": [],
+  "infoURL": "https://www.ethernity.io"
+}, {
   "name": "ProtoJumbo Testnet",
   "chainId": 234,
   "shortName": "ProtoJumbo",
@@ -5403,7 +5416,7 @@
     "symbol": "WETH",
     "decimals": 18
   },
-  "rpc": ["https://hk.p.bifrost-rpc.liebi.com, wss://hk.p.bifrost-rpc.liebi.com/ws"],
+  "rpc": ["https://hk.p.bifrost-rpc.liebi.com"],
   "faucets": [],
   "infoURL": "https://bifrost.io/"
 }, {
@@ -11439,7 +11452,7 @@
   "faucets": ["https://faucet.cybascan.io"],
   "infoURL": "https://cybria.io"
 }, {
-  "name": "EdgaMatrix Chain",
+  "name": "Edge Matrix Chain",
   "chainId": 6678,
   "shortName": "EMC",
   "networkId": 6678,
@@ -18420,7 +18433,7 @@
   "faucets": ["https://faucet.eliberty.ngo"],
   "infoURL": "https://eliberty.ngo"
 }, {
-  "name": "EdgaMatrix Chain Testnet",
+  "name": "Edge Matrix Chain Testnet",
   "chainId": 99876,
   "shortName": "EMCTestnet",
   "networkId": 99876,
