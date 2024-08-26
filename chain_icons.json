@@ -2847,6 +2847,14 @@
     "format": "jpg"
   }]
 }, {
+  "name": "uxer",
+  "icons": [{
+    "url": "ipfs://QmQurJBRScSDar6oDJ4pAeKKvzHr49KJfS1iuCkbtiNe4x",
+    "width": 200,
+    "height": 200,
+    "format": "png"
+  }]
+}, {
   "name": "dotblox",
   "icons": [{
     "url": "ipfs://QmZy2TMY881ghRxXJA7VyRA8Zhj2LJJ86DpHRZs3VQZqoJ",
@@ -5767,6 +5775,14 @@
     "format": "png"
   }]
 }, {
+  "name": "lestnet",
+  "icons": [{
+    "url": "ipfs://bafkreigg4ovuohje6iva42fou7rc7a6fkozvfkg22fhuvhw5oz7vii74ha",
+    "width": 280,
+    "height": 280,
+    "format": "svg"
+  }]
+}, {
   "name": "zilliqa",
   "icons": [{
     "url": "ipfs://QmTREXNgGtUhSoxFsrkhTe5LUnDBTKL5byaX8kpET6UuKp",
@@ -6228,6 +6244,14 @@
     "url": "ipfs://QmfP6GDn5eXFcpWuoiyWn5pjn6PYB7HQhRD8nSko1zR8KD",
     "width": 1200,
     "height": 1200,
+    "format": "png"
+  }]
+}, {
+  "name": "litentry",
+  "icons": [{
+    "url": "ipfs://QmPYr4SiYqPr5jwt7XS4xc3XcB3yEVibDp2UXZdxukHAg6",
+    "width": 614,
+    "height": 614,
     "format": "png"
   }]
 }, {
